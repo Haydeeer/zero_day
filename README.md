@@ -1,2 +1,2 @@
 # zero_day
-This is the repository for the optional vargant alx task 
+This is my first repository as a full-stack engineer
